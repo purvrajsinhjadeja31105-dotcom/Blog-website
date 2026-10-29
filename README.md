@@ -4,13 +4,7 @@ A modern, full-stack blogging application built with **React**, **Redux Toolkit*
 
 ---
 
-## 🚀 Live Demo
 
-Click the button below to view the live project:
-
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://blog-website-ashen-three.vercel.app/)
-
----
 
 ## ✨ Features
 
